@@ -14,3 +14,4 @@
 - The homepage subtitle is “把地图上的向往，变成一家人的回忆。”; do not disclose the family's home city in the homepage introduction.
 
 - Dashboard trips sort by optional ISO `startDate` ascending; missing dates go last, retaining their original relative order. Both card images and “查看行程” links open the same trip page.
+- For every new trip page, use a beautiful, destination-specific photograph for both its dashboard card and page cover. Choose a reusable image with a documented source, keep a compressed local asset, and verify desktop/mobile crops. Do not use a gradient-only placeholder as the finished cover.
