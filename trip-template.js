@@ -1,6 +1,11 @@
 // Shared read-only itinerary layout, reused from the original site.
     function esc(v=''){ return String(v).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c])); }
     function coverFor(t){
+      if (t.cover === 'galveston-new-year') return {
+        scene: 'Galveston · New Year 2027',
+        background: 'radial-gradient(circle at 76% 24%,#ffe4aa 0 6%,transparent 6.5%),linear-gradient(174deg,transparent 0 63%,rgba(255,255,255,.65) 64% 65%,transparent 66%),linear-gradient(180deg,#8dc4cd 0%,#e8c6ab 48%,#438a98 49%,#236777 71%,#e4ceaa 72%,#f5e5c7 100%)'
+      };
+
       if (t.cover === 'arizona-desert' || /phoenix|sedona|saguaro|petrified forest/i.test((t.name || '') + ' ' + (t.destination || ''))) return {
         scene: 'Arizona · Desert & Red Rocks',
         background: 'linear-gradient(rgba(20,38,34,.02),rgba(20,38,34,.3)),url("assets/arizona-christmas-cover.jpg") center / cover no-repeat'
