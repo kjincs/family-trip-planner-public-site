@@ -335,14 +335,14 @@ window.FAMILY_TRIPS = [
     "holiday": "圣诞节 / 新年",
     "months": "2026 年 12 月 22–30 日（周二至周三）",
     "duration": "9 天 8 晚；7 个完整游玩日",
-    "travelers": "海豚家、小鱼家、枫叶家三家同行，共 14 人；包含儿童与长辈。",
-    "gettingThere": "12/22 抵达 Tocumen International Airport (PTY)：小鱼家、枫叶家 从 Houston 搭 UA1250，17:12 抵达；海豚家 从 Mexico City 搭 CM121，18:00 抵达。12/30 离境：海豚家 搭 CM136，11:44 前往 Mexico City；小鱼家、枫叶家 搭 UA103，16:41 前往 Houston。路线为 Panama City 3 晚 → El Valle de Antón 2 晚 → Bijao 海滩 2 晚 → Panama City 1 晚。",
-    "transport": "全程共 3 辆租车，一家一辆，均已预订：海豚家、小鱼家 各自租车（原记录为 Hyundai Creta 或同级 Compact SUV）；枫叶家使用 Minivan。PTY 机场乘 Hertz 接驳车取车；具体车型、座位及行李空间按各家订单核对。12/24 San Blas 使用活动方接送：Residence Inn 与 Megapolis 均可接送，14 人陆路分车、海上同船。",
+    "travelers": "狮子家、小鱼家、枫叶家三家同行，共 14 人；包含儿童与长辈。",
+    "gettingThere": "12/22 抵达 Tocumen International Airport (PTY)：小鱼家、枫叶家 从 Houston 搭 UA1250，17:12 抵达；狮子家 从 Mexico City 搭 CM121，18:00 抵达。12/30 离境：狮子家 搭 CM136，11:44 前往 Mexico City；小鱼家、枫叶家 搭 UA103，16:41 前往 Houston。路线为 Panama City 3 晚 → El Valle de Antón 2 晚 → Bijao 海滩 2 晚 → Panama City 1 晚。",
+    "transport": "全程共 3 辆租车，一家一辆，均已预订：狮子家、小鱼家 各自租车（原记录为 Hyundai Creta 或同级 Compact SUV）；枫叶家使用 Minivan。PTY 机场乘 Hertz 接驳车取车；具体车型、座位及行李空间按各家订单核对。12/24 San Blas 使用活动方接送：Residence Inn 与 Megapolis 均可接送，14 人陆路分车、海上同船。",
     "budget": "全团预算待整理。San Blas 活动页列入区费 US$22/人另付；适用人数和最终费用需向运营商核对。住宿、租车与活动费用分别核算。",
-    "flights": "12/22｜海豚家：Mexico City → PTY，CM121，18:00 抵达。\n12/22｜小鱼家、枫叶家：Houston → PTY，UA1250，17:12 抵达。\n12/30｜海豚家：PTY → Mexico City，CM136，11:44 起飞。\n12/30｜小鱼家、枫叶家：PTY → Houston，UA103，16:41 起飞。\n以上按家庭提供的航班信息记录，时刻以航空公司最终通知为准；12/30 按两组航班分别安排还车与送机。",
+    "flights": "12/22｜狮子家：Mexico City → PTY，CM121，18:00 抵达。\n12/22｜小鱼家、枫叶家：Houston → PTY，UA1250，17:12 抵达。\n12/30｜狮子家：PTY → Mexico City，CM136，11:44 起飞。\n12/30｜小鱼家、枫叶家：PTY → Houston，UA103，16:41 起飞。\n以上按家庭提供的航班信息记录，时刻以航空公司最终通知为准；12/30 按两组航班分别安排还车与送机。",
     "places": "Panama Canal（12/23，具体参观点待定）\nSan Blas Islands / Isla Perro（12/24，14 人已预订）\nGamboa / Gatún Lake / Monkey Island（12/25 游船已确认，具体航线待核实）\nEl Valle de Antón\nGran Evenia Bijao – All Inclusive\nPanama City / Radisson Hotel Panama Canal",
-    "itinerary": "Day 1｜12/22 周二|小鱼家、枫叶家 17:12 抵达；海豚家 18:00 抵达，取车后入住休息。\nDay 2｜12/23 周三|当天以运河参观为主，具体参观点、门票及时段待定。\nDay 3｜12/24 周四|Residence Inn 和 Megapolis 均可接送；公开活动页标示 05:00 开始，具体接车时间待确认。\nDay 4｜12/25 周五|退房后前往 Gamboa，参加 11:00 游船，午餐后开往 El Valle。\nDay 5｜12/26 周六|在 El Valle 游玩，具体项目尚未确定，保留老人和孩子的休息时间。\nDay 6｜12/27 周日|退房后开往 Gran Evenia Bijao – All Inclusive。\nDay 7｜12/28 周一|全天留在度假村，自由安排海滩、泳池与休息。\nDay 8｜12/29 周二|返回 Panama City，枫叶家、小鱼家 入住 Radisson Hotel Panama Canal。\nDay 9｜12/30 周三|海豚家 飞 Mexico City；小鱼家、枫叶家 飞 Houston。",
-    "aurora": "住宿顺序｜Panama City 3 晚 → El Valle 2 晚 → Bijao 2 晚 → Panama City 1 晚。\n三家同行｜共 14 人，3 辆租车，每家一辆；San Blas 活动方分车接送、14 人同船。\n已订活动｜12/24 San Blas；12/25 11:00 Gamboa 游船。\n最后一晚｜枫叶家、小鱼家 住 Radisson Hotel Panama Canal；海豚家 另有安排。\n节奏安排｜San Blas 前晚提早休息；12/25 游船后转往 El Valle；12/28 留在度假村休闲。",
+    "itinerary": "Day 1｜12/22 周二|小鱼家、枫叶家 17:12 抵达；狮子家 18:00 抵达，取车后入住休息。\nDay 2｜12/23 周三|当天以运河参观为主，具体参观点、门票及时段待定。\nDay 3｜12/24 周四|Residence Inn 和 Megapolis 均可接送；公开活动页标示 05:00 开始，具体接车时间待确认。\nDay 4｜12/25 周五|退房后前往 Gamboa，参加 11:00 游船，午餐后开往 El Valle。\nDay 5｜12/26 周六|在 El Valle 游玩，具体项目尚未确定，保留老人和孩子的休息时间。\nDay 6｜12/27 周日|退房后开往 Gran Evenia Bijao – All Inclusive。\nDay 7｜12/28 周一|全天留在度假村，自由安排海滩、泳池与休息。\nDay 8｜12/29 周二|返回 Panama City，枫叶家、小鱼家 入住 Radisson Hotel Panama Canal。\nDay 9｜12/30 周三|狮子家 飞 Mexico City；小鱼家、枫叶家 飞 Houston。",
+    "aurora": "住宿顺序｜Panama City 3 晚 → El Valle 2 晚 → Bijao 2 晚 → Panama City 1 晚。\n三家同行｜共 14 人，3 辆租车，每家一辆；San Blas 活动方分车接送、14 人同船。\n已订活动｜12/24 San Blas；12/25 11:00 Gamboa 游船。\n最后一晚｜枫叶家、小鱼家 住 Radisson Hotel Panama Canal；狮子家 另有安排。\n节奏安排｜San Blas 前晚提早休息；12/25 游船后转往 El Valle；12/28 留在度假村休闲。",
     "summary": "三家共 14 人的 2026 圣诞 Panama 9 天 8 晚行程，每家一辆租车。Panama City 连住 3 晚，安排运河参观与 San Blas 跳岛；12/25 参加 11:00 Gamboa 游船后开往 El Valle de Antón，住 2 晚；随后到 Gran Evenia Bijao 度假 2 晚，12/29 返回 Panama City，12/30 分两组航班离境。",
     "notes": "租车备注｜Hertz 第三方责任险及碰撞险保障以租车合同为准；出发前核对 Panama 的适用保障。\nSan Blas｜已确认 14 人、两家酒店接送、陆路分车和海上同船；具体接车时间及入区费是否已收取待确认。\nGamboa｜12/25 11:00，时长 1 小时 15 分钟；集合地点、提前到场要求及 Gatún Lake / Monkey Island 具体航线待运营商确认。\nEl Valle｜4 间房全部订妥，三家具体分房待安排。\n待细化｜12/23 运河参观点与时段、12/26 El Valle 活动，以及各家还车时间。",
     "sources": "San Blas 活动说明（Viator）：https://www.viator.com/tours/Panama-City/Island-Hopping-San-Blas-Full-Day-Adventure-from-Panama-City/d950-339059P16\nCabañas Lopez El Valle 地图：https://maps.app.goo.gl/R4eEAjZ4zByRrT2TA\nGran Evenia Bijao 地图：https://maps.app.goo.gl/ChmkRKEj96FwW7Ra9",
@@ -365,11 +365,11 @@ window.FAMILY_TRIPS = [
                 "3 辆租车",
                 "Panama City 第 1 晚"
               ],
-              "preview": "小鱼家、枫叶家 17:12 抵达；海豚家 18:00 抵达，取车后入住休息。",
+              "preview": "小鱼家、枫叶家 17:12 抵达；狮子家 18:00 抵达，取车后入住休息。",
               "activities": [
-                "小鱼家、枫叶家 搭 UA1250 从 Houston 抵达；海豚家 搭 CM121 从 Mexico City 抵达。",
+                "小鱼家、枫叶家 搭 UA1250 从 Houston 抵达；狮子家 搭 CM121 从 Mexico City 抵达。",
                 "三家各取一辆已订租车；具体取车及会合安排按航班和入境进度协调。",
-                "海豚家、小鱼家 入住 Residence Inn Panama City；枫叶家 入住 Megapolis Hotel Panamá。",
+                "狮子家、小鱼家 入住 Residence Inn Panama City；枫叶家 入住 Megapolis Hotel Panamá。",
                 "晚餐在住宿附近解决，留出休息时间。"
               ],
               "backup": "航班延误时直接取车入住，调整会合时间。"
@@ -491,12 +491,12 @@ window.FAMILY_TRIPS = [
               "transport": "3 辆租车",
               "tags": [
                 "枫叶家、小鱼家 住 Radisson",
-                "海豚家 另有安排"
+                "狮子家 另有安排"
               ],
               "preview": "返回 Panama City，枫叶家、小鱼家 入住 Radisson Hotel Panama Canal。",
               "activities": [
                 "退房后驾车返回 Panama City，下午安排视抵达时间与体力决定。",
-                "枫叶家、小鱼家 住 Radisson Hotel Panama Canal，12/29–12/30 共 1 晚；海豚家 最后一晚另有安排。",
+                "枫叶家、小鱼家 住 Radisson Hotel Panama Canal，12/29–12/30 共 1 晚；狮子家 最后一晚另有安排。",
                 "返城住宿房型与入住安排出发前分别核对。",
                 "分别确认翌日还车流程、航站楼与出发时间。"
               ],
@@ -505,15 +505,15 @@ window.FAMILY_TRIPS = [
             {
               "date": "12/30 周三",
               "title": "分两组航班离境",
-              "duration": "海豚家 11:44；小鱼家、枫叶家 16:41 起飞",
+              "duration": "狮子家 11:44；小鱼家、枫叶家 16:41 起飞",
               "transport": "各家还车 + PTY 离境",
               "tags": [
                 "国际返程",
                 "分别安排送机"
               ],
-              "preview": "海豚家 飞 Mexico City；小鱼家、枫叶家 飞 Houston。",
+              "preview": "狮子家 飞 Mexico City；小鱼家、枫叶家 飞 Houston。",
               "activities": [
-                "海豚家：CM136，PTY → Mexico City，11:44 起飞。",
+                "狮子家：CM136，PTY → Mexico City，11:44 起飞。",
                 "小鱼家、枫叶家：UA103，PTY → Houston，16:41 起飞。",
                 "三家分别安排酒店出发、还车及机场接驳，预留办理国际航班手续的时间。",
                 "护照、旅行文件和贵重物品放在随身行李。"
@@ -531,7 +531,7 @@ window.FAMILY_TRIPS = [
             {
               "title": "12/22–12/25｜Panama City · 3 晚",
               "items": [
-                "海豚家、小鱼家：Residence Inn Panama City，均已订。",
+                "狮子家、小鱼家：Residence Inn Panama City，均已订。",
                 "Residence Inn 房型与入住安排出发前分别核对。",
                 "枫叶家：Megapolis Hotel Panamá，已订；房型以其订单为准。"
               ]
@@ -549,7 +549,7 @@ window.FAMILY_TRIPS = [
               "items": [
                 "三家海滩住宿已订。",
                 "小鱼家：入住 Gran Evenia Bijao；具体房型另行核对。",
-                "海豚家、枫叶家 的房型及金额以各自订单为准。"
+                "狮子家、枫叶家 的房型及金额以各自订单为准。"
               ]
             },
             {
@@ -557,7 +557,7 @@ window.FAMILY_TRIPS = [
               "items": [
                 "枫叶家、小鱼家：Radisson Hotel Panama Canal。",
                 "小鱼家：入住 Radisson Hotel Panama Canal；具体房型另行核对。",
-                "枫叶家 房型以其订单为准；海豚家 最后一晚另有安排。"
+                "枫叶家 房型以其订单为准；狮子家 最后一晚另有安排。"
               ]
             }
           ]
@@ -571,9 +571,9 @@ window.FAMILY_TRIPS = [
             {
               "title": "国际航班",
               "items": [
-                "12/22｜海豚家：Mexico City → PTY，CM121，18:00 抵达。",
+                "12/22｜狮子家：Mexico City → PTY，CM121，18:00 抵达。",
                 "12/22｜小鱼家、枫叶家：Houston → PTY，UA1250，17:12 抵达。",
-                "12/30｜海豚家：PTY → Mexico City，CM136，11:44 起飞。",
+                "12/30｜狮子家：PTY → Mexico City，CM136，11:44 起飞。",
                 "12/30｜小鱼家、枫叶家：PTY → Houston，UA103，16:41 起飞。",
                 "以上按家庭提供的航班信息记录，时刻以航空公司最终通知为准；12/30 按两组航班分别安排还车与送机。"
               ]
@@ -581,7 +581,7 @@ window.FAMILY_TRIPS = [
             {
               "title": "Hertz 租车",
               "items": [
-                "海豚家、小鱼家 各租一辆车，每家一辆；原记录为 Hyundai Creta 或同级 Compact SUV，实际车型按各自订单核对。",
+                "狮子家、小鱼家 各租一辆车，每家一辆；原记录为 Hyundai Creta 或同级 Compact SUV，实际车型按各自订单核对。",
                 "枫叶家：Minivan，一家一辆，已订。",
                 "PTY 机场乘 Hertz 接驳车取车；核对各车座位及行李空间。",
                 "租车总价、保险与还车条款出发前分别核对。",
