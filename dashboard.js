@@ -19,6 +19,4 @@ const $ = id => document.getElementById(id);
 ['search','statusFilter','seasonFilter','holidayFilter'].forEach(id => $(id).addEventListener(id === 'search' ? 'input' : 'change', render));
 $('clearBtn').onclick = () => { ['search','statusFilter','seasonFilter','holidayFilter'].forEach(id => $(id).value = ''); render(); };
 document.querySelector('.hero').style.backgroundImage = `linear-gradient(90deg,rgba(8,29,25,.82) 0%,rgba(8,29,25,.45) 44%,rgba(8,29,25,.08) 100%),url("${HERO_PHOTO}")`;
-document.querySelector('.hero').style.backgroundPosition = 'center';
-document.querySelector('.hero').style.backgroundSize = 'cover';
 render();
