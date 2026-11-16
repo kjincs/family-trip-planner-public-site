@@ -1,0 +1,7 @@
+Asset: family-hero.jpg
+Method: built-in image_gen image editing; JPEG compressed for the website.
+Date: 2026-11-15
+Source: existing generated family travel hero illustration.
+
+Final prompt:
+Use case: precise-object-edit. Edit the provided existing family travel hero. Make ONLY the boy at the far right taller again: the TOP OF HIS HEAD must align horizontally with the mother's shoulder level. The mother is the adult woman in the tan jacket immediately left of the father; use the upper shoulder line near her neck as the height reference, approximately 37–38% down from the top of this image. The boy currently starts around 42% down, so raise the top of his head to that shoulder reference by naturally lengthening his body and legs while keeping his feet on the same path. He should remain a child, below the mother's chin and shorter than the girl on the left. Keep his mustard hoodie, green backpack, dark pants, glasses/profile, and hand held by the father. Preserve natural hand contact and proportions. Keep the other three people exactly the same height, appearance, pose and placement. Keep the sunset mountains, sky, flowers, path, lighting, shadows, wide framing and left-side negative space unchanged. Exactly four people, no text, no watermark, no added decorative dots or sparkles. This is a precise height adjustment, not a new composition.

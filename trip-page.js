@@ -21,7 +21,6 @@ if (trip) {
   document.title = trip.name + (isEnglish ? ' · Family Trips' : ' · 家庭旅行');
   document.head.append(...page.head.querySelectorAll('style'));
   document.body.replaceChildren(...page.body.childNodes);
-  document.querySelector('.printbar > a').href = base + 'index.html';
   if (isEnglish || englishPage) {
     const nav = document.createElement('nav');
     nav.className = 'language-switch';
